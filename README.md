@@ -147,4 +147,3 @@ This project is open-source and available under the MIT License.
 
 ---
 
-Would you like me to also generate the **requirements.txt** file (with all Python dependencies) so everything runs smoothly?
